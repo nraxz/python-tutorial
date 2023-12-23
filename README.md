@@ -4,17 +4,19 @@ This tutorial provides an in-depth overview of essential data types in Python, i
 
 ## Table of Contents
 
-1. [Understanding Variables in Python](understanding-variables.md)
-   1. [Variable Types](variable-types.nd)
-   2. [Variable Types Comparison and Overview]()
+1. [Understanding Variables in Python](https://nareshshahi.com/tutorials/python-data-types-tutorial/understanding-variables)
+   1. [Variable Types](https://nareshshahi.com/tutorials/python-data-types-tutorial/variable-types)
+   2. [Variable Types Comparison and Overview](https://nareshshahi.com/tutorials/python-data-types-tutorial/variable-types-comparison-overview)
+   3. [Primary scope of variables](https://nareshshahi.com/tutorials/python-data-types-tutorial/primary-scope-of-variables)
 
-2. [Python Print Function](#python-print-function)
-3. [Python Data Structure]()
-   1. [Python List](#python-list)
-   2. [Python Tuple](#python-tuple)
-   3. [Python Set](#python-set)
-   4. [Python Dictionary](#python-dictionary)
+2. [Python print() Function](https://nareshshahi.com/tutorials/python-data-types-tutorial/python-print-function)
+3. [Python Data Structure](https://nareshshahi.com/tutorials/python-data-types-tutorial/python-data-structure)
+   1. [Python List](https://nareshshahi.com/tutorials/python-data-types-tutorial/list-datatype-explained)
+   2. [Python Tuple](https://nareshshahi.com/tutorials/python-data-types-tutorial/tuple-datatype-explained)
+   3. [Python Set](https://nareshshahi.com/tutorials/python-data-types-tutorial/set-datatype-explained)
+   4. [Python Dictionary](https://nareshshahi.com/tutorials/python-data-types-tutorial/dictionary-datatype-explained)
 
+4. [Interview Questions](https://nareshshahi.com/tutorials/python-data-types-tutorial/interview-questions)
 
 ## Variables in Python
 
