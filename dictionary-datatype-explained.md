@@ -1,4 +1,4 @@
-# Dictionary Data Type in Python: Magic
+# Dictionary Data Type in Python:
 
 A dictionary in Python is an unordered collection of key-value pairs. Each key must be unique, and it maps to a specific value. Dictionaries are defined using curly braces `{}` and can be created using the `dict()` constructor. Here are key aspects of dictionaries:
 
