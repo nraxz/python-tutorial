@@ -44,8 +44,8 @@ In programming, the terms "argument" and "parameter" are often used interchangea
 
 ### Example:
 
-```
-pythonCopy codedef add_numbers(x, y):
+```python
+def add_numbers(x, y):
     result = x + y
     print(result)
 
