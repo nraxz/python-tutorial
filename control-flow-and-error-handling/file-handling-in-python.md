@@ -11,7 +11,7 @@
 
 1. **Reading from a File (`open()`, `read()`):**
 
-   - Open a file for reading and retrieve its content.
+   > Open a file for reading and retrieve its content.
 
    ```python
    with open('example.txt', 'r') as file:
@@ -20,7 +20,7 @@
 
 2. **Writing to a File (`open()`, `write()`):**
 
-   - Open a file for writing and save data to it.
+   > Open a file for writing and save data to it.
 
    ```python
    with open('example.txt', 'w') as file:
@@ -29,7 +29,7 @@
 
 3. **Appending to a File (`open()`, `a` mode):**
 
-   - Open a file for appending and add new data without overwriting existing content.
+   > Open a file for appending and add new data without overwriting existing content.
 
    ```python
    with open('example.txt', 'a') as file:
@@ -38,7 +38,7 @@
 
 4. **Working with Binary Files (`rb`, `wb`, `ab` modes):**
 
-   - Handle binary files, useful for non-text data (images, audio, etc.).
+   > Handle binary files, useful for non-text data (images, audio, etc.).
 
    ```python
    with open('image.jpg', 'rb') as binary_file:
@@ -100,7 +100,7 @@ with open('example.txt', 'r') as file:
 # File is automatically closed when exiting the 'with' block
 ```
 
-Using the `with` statement is cleaner and more Pythonic. It ensures that the file is closed properly, even if an exception occurs. The file is closed automatically when the program exits the `with` block.
+> Using the `with` statement is cleaner and more Pythonic. It ensures that the file is closed properly, even if an exception occurs. The file is closed automatically when the program exits the `with` block.
 
 In summary, while it's technically possible to work with files without the `with` statement, using it is considered a best practice for robust and clean file handling in Python.
 

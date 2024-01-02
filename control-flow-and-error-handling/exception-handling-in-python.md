@@ -11,7 +11,7 @@
 
 1. **Try-Except Blocks:**
 
-   - Encloses code that might raise an exception, and specifies how to handle it.
+   > Encloses code that might raise an exception, and specifies how to handle it.
 
    ```python
    try:
@@ -22,7 +22,7 @@
 
 2. **Multiple Except Blocks:**
 
-   - Handles different types of exceptions separately.
+   > Handles different types of exceptions separately.
 
    ```python
    try:
@@ -35,7 +35,7 @@
 
 3. **Else Block:**
 
-   - Code in this block runs if no exceptions occur.
+   > Code in this block runs if no exceptions occur.
 
    ```python
    try:
@@ -48,7 +48,7 @@
 
 4. **Finally Block:**
 
-   - Code in this block always runs, whether an exception occurs or not.
+   > Code in this block always runs, whether an exception occurs or not.
 
    ```python
    try:
@@ -70,7 +70,9 @@
 4. **`finally`:**
    - Contains code that always runs, whether an exception occurs or not.
 
-**Common Method:** The most common method for handling exceptions is using the `try-except` block. It allows developers to anticipate potential errors and gracefully handle them, preventing the program from crashing.
+**Common Method:** 
+
+> The most common method for handling exceptions is using the `try-except` block. It allows developers to anticipate potential errors and gracefully handle them, preventing the program from crashing.
 
 ```python
 try:
