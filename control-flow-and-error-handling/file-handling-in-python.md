@@ -47,16 +47,16 @@
 
 **Common Tools and Methods:**
 
-1. **`open()`:**
-   - Function to open a file. Takes a filename and a mode as parameters.
-2. **`read()`:**
-   - Method to read the contents of a file.
-3. **`write()`:**
-   - Method to write data to a file.
-4. **`close()`:**
-   - Method to close an open file.
-5. **`with` Statement (Context Manager):**
-   - Ensures proper opening and closing of files, even in the presence of exceptions.
+- **`open()`:**
+  - Function to open a file. Takes a filename and a mode as parameters.
+- **`read()`:**
+  - Method to read the contents of a file.
+- **`write()`:**
+  - Method to write data to a file.
+- **`close()`:**
+  - Method to close an open file.
+- **`with` Statement (Context Manager):**
+  - Ensures proper opening and closing of files, even in the presence of exceptions.
 
 **Common Method:** The `with` statement is a widely used and recommended approach for file handling in Python. It ensures that the file is properly closed after usage, preventing resource leaks and errors.
 

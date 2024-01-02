@@ -61,14 +61,21 @@
 
 **Common Tools and Methods:**
 
-1. **`try`:**
-   - Encloses the code that might raise an exception.
-2. **`except`:**
-   - Specifies how to handle a particular type of exception.
-3. **`else`:**
-   - Contains code to be executed if no exceptions occur.
-4. **`finally`:**
-   - Contains code that always runs, whether an exception occurs or not.
+​	**`try`:**
+
+​		Encloses the code that might raise an exception.
+
+​	**`except`:**
+
+​		Specifies how to handle a particular type of exception.
+
+​	**`else`:**
+
+​		Contains code to be executed if no exceptions occur.
+
+​	**`finally`:**
+
+​		Contains code that always runs, whether an exception occurs or not.
 
 **Common Method:** 
 
