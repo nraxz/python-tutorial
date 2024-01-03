@@ -180,3 +180,36 @@ Understanding modules and packages is crucial for structuring and organizing Pyt
   ```
 
 These are just a few examples, and Python's standard library includes many more modules covering a wide range of functionalities, from file I/O (`io` module) to data compression (`gzip` module) and beyond. Additionally, there are numerous third-party modules that can be installed using tools like `pip`.
+
+
+
+**Module vs Library in Python**
+
+> In Python, the terms "library" and "module" are related but have distinct meanings:
+
+**Module:**
+
+A module in Python is a single file containing Python code. It can define variables, functions, and classes that can be reused in other Python files. Modules are a way to organize and encapsulate related code.
+
+```python
+# example_module.py
+def greet(name):
+    print(f"Hello, {name}!")
+
+variable_in_module = 42
+```
+
+**Library:**
+
+A library, in the context of Python, is a collection of modules or packages that provide additional functionalities. It is a set of pre-written code that can be reused by other programs. Python's standard library is an example of a collection of modules that cover a wide range of functionalities.
+
+```python
+import math
+
+result = math.sqrt(25)
+print(result)  # 5.0
+```
+
+
+
+`*In summary, a module is a single file containing Python code, while a library is a collection of modules or packages providing additional functionalities. You often import modules from libraries to use their functions or classes in your Python programs.*` 
