@@ -2,85 +2,87 @@
 
 In Python, variables can hold values of various types. Here are some common variable types in Python:
 
-1. **Integers (`int`):**
+- **Integers (`int`):**
 
-   - Whole numbers without a fractional component.
+   Whole numbers without a fractional component.
 
    ```python
    age = 25
    ```
 
-2. **Floating-point Numbers (`float`):**
+- **Floating-point Numbers (`float`):**
 
-   - Numbers with a decimal point or in scientific notation.
+   Numbers with a decimal point or in scientific notation.
 
    ```python
    height = 5.9
    ```
 
-3. **Strings (`str`):**
+- **Strings (`str`):**
 
-   - Sequences of characters enclosed in single or double quotes.
+   Sequences of characters enclosed in single or double quotes.
 
    ```python
    name = "John"
    ```
 
-4. **Booleans (`bool`):**
+- **Booleans (`bool`):**
 
-   - Represents either True or False.
+   Represents either True or False.
 
    ```python
    is_student = True
    ```
 
-5. **Lists (`list`):**
+- **Lists (`list`):**
 
-   - Ordered, mutable collections of elements.
+   Ordered, mutable collections of elements.
 
    ```python
    numbers = [1, 2, 3, 4, 5]
    ```
 
-6. **Tuples (`tuple`):**
+- **Tuples (`tuple`):**
 
-   - Ordered, immutable collections of elements.
+   Ordered, immutable collections of elements.
 
    ```python
    coordinates = (3, 4)
    ```
 
-7. **Sets (`set`):**
+- **Sets (`set`):**
 
-   - Unordered collections of unique elements.
+   Unordered collections of unique elements.
 
    ```python
    unique_numbers = {1, 2, 3, 4, 5}
    ```
 
-8. **Dictionaries (`dict`):**
+- **Dictionaries (`dict`):**
 
-   - Unordered collections of key-value pairs.
+   Unordered collections of key-value pairs.
 
    ```python
    person = {'name': 'Alice', 'age': 30}
    ```
 
-9. **NoneType (`None`):**
+- **NoneType (`None`):**
 
-   - Represents the absence of a value or a null value.
+   Represents the absence of a value or a null value.
 
    ```python
    result = None
    ```
 
-10. **Complex Numbers (`complex`):**
+- **Complex Numbers (`complex`):**
 
-- Numbers with a real and an imaginary part.
+  Numbers with a real and an imaginary part.
 
-```python
-complex_num = 3 + 4j
-```
+  ```python
+  complex_num = 3 + 4j
+  ```
+
+  
 
 These are some of the fundamental types, but Python is a dynamically typed language, which means that a variable's type is determined at runtime. Additionally, there are more specialized types and custom classes that can be used to represent specific kinds of data.
 
