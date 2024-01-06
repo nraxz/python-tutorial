@@ -6,12 +6,12 @@ In this chapter, we will illustrate the application of Object-Oriented Programmi
 
 **Chapter Highlights:**
 
-1. **Classes and Objects:**
-2. **Encapsulation:**
-3. **Inheritance:**
-4. **Polymorphism:**
-5. ***Abstraction:****
-6. **Method Overriding:**
+1. [**Classes and Objects:**](https://nareshshahi.com/tutorials/Python/oop-in-python/classes-objects)
+2. [**Encapsulation:**](https://nareshshahi.com/tutorials/Python/oop-in-python/encapsulation)
+3. [**Inheritance:**](https://nareshshahi.com/tutorials/Python/oop-in-python/inheritance)
+4. [**Polymorphism:**](https://nareshshahi.com/tutorials/Python/oop-in-python/polymorphism)
+5. [**Abstraction:**](https://nareshshahi.com/tutorials/Python/oop-in-python/abstraction)
+6. [**Method Overriding:**](https://nareshshahi.com/tutorials/Python/oop-in-python/method-overriding)
 
 **Application in Real Projects:**
 
