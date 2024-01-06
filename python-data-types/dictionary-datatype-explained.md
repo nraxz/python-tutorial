@@ -38,11 +38,14 @@ A dictionary in Python is an unordered collection of key-value pairs. Each key m
 ### Ideal Situations to Use Dictionaries:
 
 - **Mapping Relationships:**
-  - Use dictionaries when you need to establish a mapping between keys and values, such as representing properties of an object.
+  
+  Use dictionaries when you need to establish a mapping between keys and values, such as representing properties of an object.
 - **Fast Lookup:**
-  - Dictionaries provide constant-time complexity for key lookup, making them ideal for scenarios where fast access to data is crucial.
+  
+  Dictionaries provide constant-time complexity for key lookup, making them ideal for scenarios where fast access to data is crucial.
 - **Dynamic Data:**
-  - When dealing with data that may change frequently or has varying attributes, dictionaries provide flexibility.
+  
+  When dealing with data that may change frequently or has varying attributes, dictionaries provide flexibility.
 
 ### Key Functions and Operations for Dictionaries:
 
